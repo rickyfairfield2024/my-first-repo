@@ -83,6 +83,7 @@ ul li {
   animation: grow 1.6s ease-in-out infinite;
 }
 
+
 @keyframes grow {
   0% ,
   40% ,
